@@ -1,0 +1,12 @@
+{
+    "name": "assessments/student",
+    "description": "this is examination package",
+    "autoload": {
+        "psr-4": {
+            "Assessments\\Student\\": "src/"
+        }
+    },
+    "require": {
+        "guzzlehttp/guzzle": "^7.2"
+    }
+}

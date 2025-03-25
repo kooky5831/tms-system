@@ -1,0 +1,12 @@
+.payment-terms { width:100%; float:left; margin-top:10px; }
+.payment-terms h4, .payment-modes h4 { font-size:14px; color: #2f4686; line-height:14px; font-family: 'Poppins', sans-serif; margin-bottom:0px; }
+.payment-terms p, .payment-modes p { font-size:12px; line-height: 16px; font-family: 'Poppins', sans-serif; }
+.payment-terms p strong { color: #2f4686; }
+
+.payment-modes { width:80%; float:left; margin-top:10px; }
+.payment-barcode { width:20%; float: right; margin-top:10px; }
+
+.invoice-header { width: 100%; float:left; border-collapse: collapse; border-bottom: 4px double #b6c2e4; }
+.invoice-header-details .invoice-header-logo { width:66%; text-align:left; padding: 10px; }
+.invoice-header-details .invoice-header-address { width:36%; text-align:left; line-height: 20px; font-family: 'Poppins', sans-serif; border-left: 2px solid #2f4686; padding: 0px 10px 10px; }
+.invoice-header-details .invoice-header-address h4 { text-align:left; font-family: 'Poppins', sans-serif; color:#e24d36; }
